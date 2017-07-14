@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Earthquake Watch</string>
+  <string name="app_detail_name">Earthquake Details</string>
+  <string name="byNearest">Nearest</string>
+  <string name="byMagnitude">Magnitude</string>
+  <string name="byTime">Most Recent</string>
+  <string name="preferences">Preferences</string>
+  <string name="help">Help</string>
+</resources>

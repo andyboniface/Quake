@@ -1,0 +1,7 @@
+packages
+.vs
+Quake/Quake.Droid/bin
+Quake/Quake.Droid/obj
+Quake/Quake.WinPhone/obj
+Quake/Quake/bin
+Quake/Quake/obj
